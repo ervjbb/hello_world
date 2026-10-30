@@ -58,6 +58,7 @@ float meanvaluecalc(int input[], int len) {
 	} while (i++ < len - 1);
         return (float) meanvalue/len;
 }
+/* adding a meaningless comment here */
 
 
 
