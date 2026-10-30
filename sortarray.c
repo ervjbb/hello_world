@@ -8,7 +8,8 @@ int mediancalc(int len);
 float meanvaluecalc(int input[], int len);
 
 /* this is just an example */
-int exemplet[25] = {7,6,8,9,120,0,3,15,11,2,14,4,5,8,8,12,7,6,10,1,1,18,19,21,21};
+/* actually not so useful */
+int exemplet[25] = {7,6,8,9,120,0,3,15,11,2,14,4,5,8,8,12,7,6,10,1,1,18,19,21,21};  /* is this really the most realistic set of integers? */
 
 
 int main() {
